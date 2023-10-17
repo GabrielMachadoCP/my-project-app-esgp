@@ -16,19 +16,19 @@
       "id": 3,
       "nome": "Mouse",
       "desc": "Mouse Óptico 6 Botões",
-      "preco": 220
+      "preco": "211"
     },
     {
       "id": 4,
       "nome": "Mouse Pad",
       "desc": "Mouse Pad Gamer 80 x 100.",
-      "preco": 100
+      "preco": "103"
     },
     {
       "id": 5,
       "nome": "Head Set",
       "desc": "Head Set Gamer 8D.",
-      "preco": "805"
+      "preco": "810"
     }
   ]
 }
