@@ -30,5 +30,607 @@
       "desc": "Head Set Gamer 8D.",
       "preco": "810"
     }
+  ],
+  "usuarios": [
+    {
+      "id": 2,
+      "email": "sapien@aol.couk",
+      "name": "Raja Costa",
+      "senha": "arcu"
+    },
+    {
+      "id": 3,
+      "email": "nunc.quisque.ornare@google.couk",
+      "name": "Kessie Domingos",
+      "senha": "nunc"
+    },
+    {
+      "id": 4,
+      "email": "justo.proin.non@icloud.ca",
+      "name": "Germane Inacio",
+      "senha": "mi"
+    },
+    {
+      "id": 5,
+      "email": "nullam@icloud.ca",
+      "name": "Harrison de Lourdes",
+      "senha": "eu"
+    },
+    {
+      "id": 6,
+      "email": "egestas.hendrerit.neque@protonmail.br",
+      "name": "Kenyon Rocha",
+      "senha": "non"
+    },
+    {
+      "id": 7,
+      "email": "ornare.lectus.ante@outlook.couk",
+      "name": "Quon Nunes",
+      "senha": "Lorem"
+    },
+    {
+      "id": 8,
+      "email": "curabitur.dictum@yahoo.net",
+      "name": "Clarke Barboza",
+      "senha": "vitae,"
+    },
+    {
+      "id": 9,
+      "email": "nisi.a@outlook.com",
+      "name": "Dai Franco",
+      "senha": "Nulla"
+    },
+    {
+      "id": 10,
+      "email": "et.libero@google.edu",
+      "name": "Austin de Castro",
+      "senha": "semper"
+    },
+    {
+      "id": 11,
+      "email": "diam@outlook.ca",
+      "name": "Xandra Morais",
+      "senha": "ut,"
+    },
+    {
+      "id": 12,
+      "email": "et@hotmail.net",
+      "name": "Hedda Castro",
+      "senha": "est"
+    },
+    {
+      "id": 13,
+      "email": "eu.elit@google.br",
+      "name": "Ray Henrique",
+      "senha": "euismod"
+    },
+    {
+      "id": 14,
+      "email": "libero.proin@icloud.com",
+      "name": "Genevieve de Freitas",
+      "senha": "at"
+    },
+    {
+      "id": 15,
+      "email": "ultrices.duis@google.couk",
+      "name": "Stacy Ferraz",
+      "senha": "ac"
+    },
+    {
+      "id": 16,
+      "email": "diam@google.org",
+      "name": "Amber Sales",
+      "senha": "sapien"
+    },
+    {
+      "id": 17,
+      "email": "amet.nulla@protonmail.com",
+      "name": "Georgia Lemos",
+      "senha": "consectetuer"
+    },
+    {
+      "id": 18,
+      "email": "pede.sagittis@icloud.ca",
+      "name": "Lael Marinho",
+      "senha": "ultricies"
+    },
+    {
+      "id": 19,
+      "email": "amet.dapibus@fiap.ca",
+      "name": "Charles de Barros",
+      "senha": "at,"
+    },
+    {
+      "id": 20,
+      "email": "duis@google.org",
+      "name": "Yoshio Paulino",
+      "senha": "feugiat"
+    },
+    {
+      "id": 21,
+      "email": "consectetuer.cursus.et@yahoo.com",
+      "name": "Keefe da Cunha",
+      "senha": "eu"
+    },
+    {
+      "id": 22,
+      "email": "erat.eget@yahoo.net",
+      "name": "Uma Dias",
+      "senha": "eget"
+    },
+    {
+      "id": 23,
+      "email": "eu.eleifend.nec@fiap.couk",
+      "name": "Cameran do Carmo",
+      "senha": "vel,"
+    },
+    {
+      "id": 24,
+      "email": "integer@yahoo.org",
+      "name": "Stacy Soares",
+      "senha": "odio"
+    },
+    {
+      "id": 25,
+      "email": "eu.ultrices@aol.net",
+      "name": "Tanner Correa",
+      "senha": "fringilla"
+    },
+    {
+      "id": 26,
+      "email": "ornare@icloud.net",
+      "name": "Steven Caetano",
+      "senha": "nulla."
+    },
+    {
+      "id": 27,
+      "email": "rutrum.urna.nec@hotmail.org",
+      "name": "Leandra Matias",
+      "senha": "ac"
+    },
+    {
+      "id": 28,
+      "email": "dui@hotmail.br",
+      "name": "Nehru de Matos",
+      "senha": "adipiscing"
+    },
+    {
+      "id": 29,
+      "email": "mi.duis@yahoo.br",
+      "name": "Abel Sampaio",
+      "senha": "Fusce"
+    },
+    {
+      "id": 30,
+      "email": "lorem.auctor@outlook.com",
+      "name": "Dora Correia",
+      "senha": "libero."
+    },
+    {
+      "id": 31,
+      "email": "per.inceptos.hymenaeos@fiap.edu",
+      "name": "Xantha Santana",
+      "senha": "Suspendisse"
+    },
+    {
+      "id": 32,
+      "email": "turpis.nec@outlook.com",
+      "name": "Caesar de Carvalho",
+      "senha": "neque"
+    },
+    {
+      "id": 33,
+      "email": "donec.felis.orci@icloud.ca",
+      "name": "Derek Amaral",
+      "senha": "a"
+    },
+    {
+      "id": 34,
+      "email": "sem@hotmail.couk",
+      "name": "Branden Torres",
+      "senha": "ac"
+    },
+    {
+      "id": 35,
+      "email": "proin.ultrices.duis@aol.br",
+      "name": "Uriel Rocha",
+      "senha": "ligula"
+    },
+    {
+      "id": 36,
+      "email": "donec.at@outlook.edu",
+      "name": "Maxine Maciel",
+      "senha": "turpis"
+    },
+    {
+      "id": 37,
+      "email": "pellentesque.sed.dictum@google.ca",
+      "name": "Piper Dantas",
+      "senha": "Donec"
+    },
+    {
+      "id": 38,
+      "email": "massa.mauris@fiap.org",
+      "name": "Tyler Trindade",
+      "senha": "Morbi"
+    },
+    {
+      "id": 39,
+      "email": "dictum.cursus@hotmail.com",
+      "name": "Tasha Dantas",
+      "senha": "fames"
+    },
+    {
+      "id": 40,
+      "email": "sit@icloud.net",
+      "name": "Raya Nunes",
+      "senha": "mauris"
+    },
+    {
+      "id": 41,
+      "email": "purus@yahoo.ca",
+      "name": "Flavia da Silveira",
+      "senha": "libero."
+    },
+    {
+      "id": 42,
+      "email": "pellentesque.tellus@outlook.ca",
+      "name": "Candace Santiago",
+      "senha": "tempus"
+    },
+    {
+      "id": 43,
+      "email": "metus.sit@hotmail.ca",
+      "name": "Hilel Almeida",
+      "senha": "eget"
+    },
+    {
+      "id": 44,
+      "email": "fermentum@aol.couk",
+      "name": "Finn Miranda",
+      "senha": "vitae,"
+    },
+    {
+      "id": 45,
+      "email": "purus.duis@protonmail.ca",
+      "name": "Craig de Jesus",
+      "senha": "Pellentesque"
+    },
+    {
+      "id": 46,
+      "email": "nonummy.ipsum@aol.com",
+      "name": "Halee de Morais",
+      "senha": "turpis."
+    },
+    {
+      "id": 47,
+      "email": "dolor.sit.amet@google.net",
+      "name": "Levi Bento",
+      "senha": "egestas"
+    },
+    {
+      "id": 48,
+      "email": "pede.nonummy.ut@google.couk",
+      "name": "Lilah Castro",
+      "senha": "morbi"
+    },
+    {
+      "id": 49,
+      "email": "malesuada@hotmail.net",
+      "name": "Curran da Rosa",
+      "senha": "morbi"
+    },
+    {
+      "id": 50,
+      "email": "posuere.vulputate@yahoo.com",
+      "name": "Isaiah Diniz",
+      "senha": "Duis"
+    },
+    {
+      "id": 51,
+      "email": "quis@outlook.br",
+      "name": "Leilani Nonato",
+      "senha": "enim"
+    },
+    {
+      "id": 52,
+      "email": "non.justo.proin@aol.com",
+      "name": "Summer Azevedo",
+      "senha": "Curabitur"
+    },
+    {
+      "id": 53,
+      "email": "lacus.quisque@protonmail.com",
+      "name": "Kiona Franco",
+      "senha": "id"
+    },
+    {
+      "id": 54,
+      "email": "mauris@aol.ca",
+      "name": "Palmer Andrade",
+      "senha": "molestie"
+    },
+    {
+      "id": 55,
+      "email": "aliquam.enim.nec@outlook.org",
+      "name": "Henry Sales",
+      "senha": "ipsum"
+    },
+    {
+      "id": 56,
+      "email": "ut.eros.non@outlook.org",
+      "name": "Caleb Borges",
+      "senha": "Aliquam"
+    },
+    {
+      "id": 57,
+      "email": "euismod.in.dolor@icloud.com",
+      "name": "Neville Pereira",
+      "senha": "nec,"
+    },
+    {
+      "id": 58,
+      "email": "libero@aol.net",
+      "name": "Dane Bueno",
+      "senha": "diam"
+    },
+    {
+      "id": 59,
+      "email": "porttitor.eros@aol.br",
+      "name": "Ian de Paula",
+      "senha": "metus"
+    },
+    {
+      "id": 60,
+      "email": "penatibus.et@google.edu",
+      "name": "Davis Magalhaes",
+      "senha": "id,"
+    },
+    {
+      "id": 61,
+      "email": "mauris@icloud.org",
+      "name": "Cailin Ramos",
+      "senha": "bibendum"
+    },
+    {
+      "id": 62,
+      "email": "nec.ligula@fiap.com",
+      "name": "Imelda Teixeira",
+      "senha": "est,"
+    },
+    {
+      "id": 63,
+      "email": "sem.magna.nec@outlook.ca",
+      "name": "Maxine Coutinho",
+      "senha": "feugiat."
+    },
+    {
+      "id": 64,
+      "email": "in@fiap.br",
+      "name": "Kenneth Sales",
+      "senha": "nulla."
+    },
+    {
+      "id": 65,
+      "email": "velit.dui@icloud.br",
+      "name": "Cullen da Silveira",
+      "senha": "dolor."
+    },
+    {
+      "id": 66,
+      "email": "integer.aliquam@outlook.net",
+      "name": "Palmer de Moraes",
+      "senha": "a,"
+    },
+    {
+      "id": 67,
+      "email": "tortor.nunc@google.br",
+      "name": "Ferris de Sousa",
+      "senha": "Proin"
+    },
+    {
+      "id": 68,
+      "email": "dolor@aol.com",
+      "name": "Tallulah Custodio",
+      "senha": "nunc"
+    },
+    {
+      "id": 69,
+      "email": "euismod.ac@yahoo.ca",
+      "name": "Nash Moreira",
+      "senha": "sit"
+    },
+    {
+      "id": 70,
+      "email": "aliquet.magna.a@icloud.couk",
+      "name": "Ivor Chaves",
+      "senha": "tincidunt"
+    },
+    {
+      "id": 71,
+      "email": "quisque.imperdiet@hotmail.br",
+      "name": "Acton Machado",
+      "senha": "orci"
+    },
+    {
+      "id": 72,
+      "email": "in.faucibus.orci@google.net",
+      "name": "Rebekah de Abreu",
+      "senha": "sed"
+    },
+    {
+      "id": 73,
+      "email": "habitant.morbi@protonmail.org",
+      "name": "Jermaine Evangelista",
+      "senha": "dictum"
+    },
+    {
+      "id": 74,
+      "email": "arcu.eu@protonmail.edu",
+      "name": "Shana Faria",
+      "senha": "ut"
+    },
+    {
+      "id": 75,
+      "email": "nec.ligula.consectetuer@aol.net",
+      "name": "Meghan Martins",
+      "senha": "luctus,"
+    },
+    {
+      "id": 76,
+      "email": "tincidunt.aliquam@protonmail.couk",
+      "name": "Connor de Moraes",
+      "senha": "in"
+    },
+    {
+      "id": 77,
+      "email": "pretium.et@protonmail.com",
+      "name": "Adele Lopes",
+      "senha": "et,"
+    },
+    {
+      "id": 78,
+      "email": "praesent.interdum.ligula@icloud.net",
+      "name": "Martena Rezende",
+      "senha": "iaculis"
+    },
+    {
+      "id": 79,
+      "email": "etiam.vestibulum@hotmail.org",
+      "name": "April de Carvalho",
+      "senha": "est."
+    },
+    {
+      "id": 80,
+      "email": "ultricies.dignissim@hotmail.ca",
+      "name": "Lenore de Santana",
+      "senha": "eu"
+    },
+    {
+      "id": 81,
+      "email": "arcu.vestibulum@google.couk",
+      "name": "Noel Batista",
+      "senha": "Donec"
+    },
+    {
+      "id": 82,
+      "email": "convallis@aol.ca",
+      "name": "Darius Costa",
+      "senha": "Cras"
+    },
+    {
+      "id": 83,
+      "email": "est.vitae@fiap.com",
+      "name": "Bell Miranda",
+      "senha": "eu"
+    },
+    {
+      "id": 84,
+      "email": "laoreet.ipsum.curabitur@protonmail.br",
+      "name": "Keefe de Paula",
+      "senha": "Phasellus"
+    },
+    {
+      "id": 85,
+      "email": "at.egestas@yahoo.org",
+      "name": "Dominique Dantas",
+      "senha": "faucibus"
+    },
+    {
+      "id": 86,
+      "email": "dictum.eu@aol.com",
+      "name": "Tara Garcia",
+      "senha": "sodales"
+    },
+    {
+      "id": 87,
+      "email": "pede.nec@aol.edu",
+      "name": "Eaton Bezerra",
+      "senha": "et"
+    },
+    {
+      "id": 88,
+      "email": "mi.aliquam@hotmail.com",
+      "name": "Faith Neves",
+      "senha": "sed"
+    },
+    {
+      "id": 89,
+      "email": "suspendisse.aliquet.molestie@outlook.br",
+      "name": "Carter da Cunha",
+      "senha": "Aliquam"
+    },
+    {
+      "id": 90,
+      "email": "aliquam.erat@outlook.org",
+      "name": "Xaviera Lopes",
+      "senha": "non"
+    },
+    {
+      "id": 91,
+      "email": "nunc.id@hotmail.net",
+      "name": "Quinn de Azevedo",
+      "senha": "est,"
+    },
+    {
+      "id": 92,
+      "email": "a@icloud.com",
+      "name": "TaShya Barros",
+      "senha": "sagittis"
+    },
+    {
+      "id": 93,
+      "email": "leo.morbi.neque@hotmail.com",
+      "name": "Erica Feitosa",
+      "senha": "quam"
+    },
+    {
+      "id": 94,
+      "email": "rutrum.justo@protonmail.ca",
+      "name": "Karina Felix",
+      "senha": "Nulla"
+    },
+    {
+      "id": 95,
+      "email": "accumsan@outlook.org",
+      "name": "Chava Vieira",
+      "senha": "Donec"
+    },
+    {
+      "id": 96,
+      "email": "sodales.mauris.blandit@yahoo.ca",
+      "name": "Lara Cunha",
+      "senha": "Sed"
+    },
+    {
+      "id": 97,
+      "email": "duis.a@hotmail.couk",
+      "name": "Davis Freitas",
+      "senha": "Duis"
+    },
+    {
+      "id": 98,
+      "email": "malesuada.id@fiap.org",
+      "name": "Florence Lima",
+      "senha": "non,"
+    },
+    {
+      "id": 99,
+      "email": "pellentesque@icloud.ca",
+      "name": "Ariel Mariano",
+      "senha": "inceptos"
+    },
+    {
+      "id": 100,
+      "email": "semper.erat.in@yahoo.edu",
+      "name": "Noel Dutra",
+      "senha": "imperdiet"
+    },
+    {
+      "id": 1,
+      "email": "eget.tincidunt@fiap.org",
+      "name": "Moana de Azevedo",
+      "senha": "pede."
+    }
   ]
 }

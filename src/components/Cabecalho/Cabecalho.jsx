@@ -20,6 +20,7 @@ export default function Cabecalho() {
             <ul>
               <li><Link to="/" className={rotaAtual.pathname == "/" ? "active" : ""}>HOME</Link></li>
               <li><Link to="/produtos" className={rotaAtual.pathname == "/produtos" ? "active" : ""}>PRODUTOS</Link> </li>
+              <li><Link to="/login" className={rotaAtual.pathname == "/login" ? "active" : ""}>LOGIN</Link> </li>
             </ul>
           </nav>
 
