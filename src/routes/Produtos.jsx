@@ -1,13 +1,15 @@
 import { useEffect, useState } from "react";
 
-import { Link } from "react-router-dom";
-import styles from "./Produtos.module.css";
+import { Link, useLocation } from "react-router-dom";
+import "./Produtos.scss";
 import { AiFillEdit as Editar } from "react-icons/ai";
-import { MdDeleteForever as Excluir } from "react-icons/md";
-import ModalAction from "../components/ModalAction/ModalAction";
+import ModalActionE from "../components/ModalAction/ModalActionE";
+import ModalActionI from "../components/ModalAction/ModalActionI";
 
 export default function Produtos() {
   document.title = "Lista de Produtos";
+
+  const rotaAtual = useLocation();
 
   const [listaProdutosLocal, setListaProdutosLocal] = useState([{}]);
 
@@ -19,25 +21,30 @@ export default function Produtos() {
       .catch((error) => console.log(error));
   }, []);
 
-  const [open, setOpen] = useState(false);
+  const [open, setOpenI] = useState(false);
+  const [abre, setOpenE] = useState(false);
 
 
   return (
     <div>
-      <h1 className={styles.h1}>Lista de Produtos</h1>
+      <h1 className="h1">Lista de Produtos</h1>
 
-        <ModalAction open={open} setClose={setOpen}/>
-        <button onClick={()=>setOpen(true)}>OPEN-MODAL</button>
+        <ModalActionI openI={open} setCloseI={setOpenI}/>
+        <ModalActionE openE={abre} setCloseE={setOpenE}/>
+        <div className="botoes">
+          <div className="botao"><button onClick={()=>setOpenI(true)}>INSERIR PRODUTOS</button></div>
+          <div className="botao"><button onClick={()=>setOpenE(true)}>EXCLUIR PRODUTOS</button></div>
+        </div>
         
           <div>
-            <table className={styles.tblEstilo}>
+            <table className="tblEstilo">
               <thead>
                 <tr>
                   <th>ID</th>
                   <th>NOME</th>
                   <th>DESCRIÇÃO</th>
                   <th>PREÇO</th>
-                  <th>EDITAR / EXCLUIR</th>
+                  <th>EDITAR</th>
                 </tr>
               </thead>
               <tbody>
@@ -48,7 +55,7 @@ export default function Produtos() {
                       <td>{item.nome}</td>
                       <td>{item.desc}</td>
                       <td>{item.preco}</td>
-                      <td> <Link to={`/editar/produtos/${item.id}`}><Editar/></Link> | <Link to={`/excluir/produtos/${item.id}`}><Excluir/></Link> </td>
+                      <td> <Link to={`/editar/produtos/${item.id}`}><Editar/></Link></td>
                     </tr>
                   ))
                 }
@@ -60,7 +67,6 @@ export default function Produtos() {
               </tfoot>
             </table>
           </div>
-
     </div>
   )
 }

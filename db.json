@@ -25,13 +25,19 @@
       "preco": "103"
     },
     {
-      "id": 5,
-      "nome": "Head Set",
-      "desc": "Head Set Gamer 8D.",
-      "preco": "810"
+      "nome": "Celular",
+      "desc": "Iphone 15 titanium",
+      "preco": "13000",
+      "id": 5
     }
   ],
   "usuarios": [
+    {
+      "id": 1,
+      "email": "gabrielmacapi@hotmail.com",
+      "name": "Gabriel Machado",
+      "senha": "12345"
+    },
     {
       "id": 2,
       "email": "sapien@aol.couk",
@@ -40,9 +46,9 @@
     },
     {
       "id": 3,
-      "email": "nunc.quisque.ornare@google.couk",
-      "name": "Kessie Domingos",
-      "senha": "nunc"
+      "email": "gabrielmapi12@gmail.com",
+      "name": "Gabriel Pimentel",
+      "senha": "0000"
     },
     {
       "id": 4,
@@ -625,12 +631,6 @@
       "email": "semper.erat.in@yahoo.edu",
       "name": "Noel Dutra",
       "senha": "imperdiet"
-    },
-    {
-      "id": 1,
-      "email": "eget.tincidunt@fiap.org",
-      "name": "Moana de Azevedo",
-      "senha": "pede."
     }
   ]
 }

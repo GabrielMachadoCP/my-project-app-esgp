@@ -1,13 +1,13 @@
+import "./Home.scss"
 
 export default function Home() {
   return (
-    <div>
+    <div className="geral">
       <h1>Home</h1>
-      <div>
+      <div className="conteudo">
         <h2>Produtos em Oferta...</h2>
         <figure>
           <img src="/img/supermarket-shelf-1094812_640.png" alt="prateleira" />
-          <figcaption>Nossos Produtos:</figcaption>
         </figure>
       </div>
     </div>

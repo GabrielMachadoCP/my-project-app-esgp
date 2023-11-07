@@ -1,5 +1,4 @@
 import { Link, useLocation } from "react-router-dom";
-import styles from "./Cabecalho.module.css";
 import "./Cabecalho.scss";
 
 
@@ -9,7 +8,7 @@ export default function Cabecalho() {
 
   return (
     <>
-        <header className={styles.cabecalho}>
+        <header className="cabecalho">
           
           <img src="/img/produtos.png" alt="Mãos segurando caixas." /> 
 
