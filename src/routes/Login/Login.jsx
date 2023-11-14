@@ -49,7 +49,7 @@ export default function Login() {
       const response = await fetch("http://localhost:5000/usuarios");
       if (response.ok) {
         const users = await response.json();
-        console.log(users);
+        // console.log(users);
         for (let x = 0; x < users.length; x++) {
           const u = users[x];
 
@@ -72,6 +72,9 @@ export default function Login() {
           //Precisamos lembrar que tudo o que adicionamos na sessionStorage e ou localStorage deve ser do tipo string. Neste caso o Token é uma string, então não há necessidade de realizar uma conversão, por exemplo usando a função json.stringify(objeto)
 
           sessionStorage.setItem("token-user", token);
+
+          //Adicionando o objeto do usuário na SessionStorage
+          sessionStorage.setItem("user-obj", JSON.stringify(user))
 
           setTimeout(()=>{
               window.location = "/";
